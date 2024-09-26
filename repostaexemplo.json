@@ -1,0 +1,11 @@
+{
+  "valid_emails": [
+    "joao@gmail.com",
+    "maria@hotmail.com",
+    "ana@yahoo.com"
+  ],
+  "invalid_emails": [
+    "invalido.com"
+  ],
+  "failed_emails": []
+}
